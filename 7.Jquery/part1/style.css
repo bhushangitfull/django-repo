@@ -1,0 +1,15 @@
+body{
+  font-family: sans-serif;
+}
+
+.turnRed{
+
+  color: white;
+  background: red;
+
+}
+
+.turnBlue{
+  color: white;
+  background: blue;
+}

@@ -1,0 +1,16 @@
+
+body{
+  background-color:violet ;
+}
+
+
+div{
+  border-color: white;
+  border-width: thick;
+  border-style: double;
+  border-radius: 10px
+}
+
+span{
+  color: white;
+}
