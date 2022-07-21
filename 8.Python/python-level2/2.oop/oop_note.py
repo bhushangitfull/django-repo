@@ -38,3 +38,6 @@ mycircle = Circle()
 mycircle.set_radius(56)
 print(mycircle.radius) 
 print(mycircle.area())      
+
+
+
